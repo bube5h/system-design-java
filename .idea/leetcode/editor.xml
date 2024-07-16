@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bubesh/leetcode/problems/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/bubesh/leetcode/problems/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/bubesh/leetcode/problems/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/vq/4tn334js4gx6qrc47q4m4w2r0000gp/T/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/bubesh/leetcode/problems/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/bubesh/leetcode/problems/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/vq/4tn334js4gx6qrc47q4m4w2r0000gp/T/leetcode/editor/en/[330]Patching Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/vq/4tn334js4gx6qrc47q4m4w2r0000gp/T/leetcode/editor/en/doc/content/[330]Patching Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com330" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/vq/4tn334js4gx6qrc47q4m4w2r0000gp/T/leetcode/editor/en/[330]Patching Array.java" />
+              <option name="titleSlug" value="patching-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
